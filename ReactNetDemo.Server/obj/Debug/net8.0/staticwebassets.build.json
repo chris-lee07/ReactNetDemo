@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "g7Fc4cptgW2yX8cEIu9q8HqMdlf/Lt6XiAfVlg2JqOs=",
+  "Source": "ReactNetDemo.Server",
+  "BasePath": "_content/ReactNetDemo.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\chris\\Development\\ReactNetDemo\\reactnetdemo.client\\reactnetdemo.client.esproj",
+      "Version": 2,
+      "Source": "reactnetdemo.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

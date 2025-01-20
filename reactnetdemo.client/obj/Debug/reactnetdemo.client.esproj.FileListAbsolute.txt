@@ -1,0 +1,1 @@
+C:\Users\chris\Development\ReactNetDemo\reactnetdemo.client\obj\Debug\reactnetdemo.client.esproj.CoreCompileInputs.cache
